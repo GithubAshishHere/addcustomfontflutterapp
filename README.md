@@ -1,2 +1,16 @@
-# addcustomfontflutterapp
-Let’s learn  Add Custom Font in Flutter  1. Create assets folder  2. Inside assets folder, create fonts folder  3. Drag fonts inside fonts folder  4. Now, Go to pubspec.yaml file  5. Uncomment #fonts and below code of it.  6. Add your fontname in font family  7. Add your font path inside - asset (Don’t be confuse about  - asset and assets folder both are different.)  8. In our case path is “assets/fonts/font-name.ttf” (Make sure path is perfect.)  9. Also take care of hierarchy inside pubspec.yaml (All Code should be align from same space)  10. Add weight of font (Font weight details will get from where you download the fonts.)  - Save  11. Now apply font, where you looking for custom font.   12. Close your app and restart again.     
+# add_custom_font
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
